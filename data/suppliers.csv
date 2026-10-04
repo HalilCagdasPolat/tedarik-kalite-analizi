@@ -1,0 +1,25 @@
+supplier_id,supplier_name,country,city,primary_category
+1,Zirve Optik Sistemler,Almanya,Stuttgart,Optik
+2,Marmara Optik Sistemler,İtalya,Torino,Optik
+3,Trakya Bağlantı Elemanları,Fransa,Toulouse,Bağlantı Elemanı
+4,Kızılırmak Bağlantı Elemanları,Polonya,Rzeszów,Bağlantı Elemanı
+5,Batı Hidrolik,Türkiye,Eskişehir,Hidrolik
+6,Anadolu Kablaj Sistemleri,Türkiye,Kayseri,Kablaj
+7,Bozkır Optik Sistemler,Türkiye,İzmir,Optik
+8,Altın Yüzey İşlemleri,Türkiye,Konya,Isıl İşlem/Kaplama
+9,Meriç Kablaj Sistemleri,Türkiye,İstanbul,Kablaj
+10,Güney Hidrolik,Türkiye,Eskişehir,Hidrolik
+11,Karadeniz Elektronik,Türkiye,Bursa,Elektronik Kart
+12,Doruk Metal Sanayi,Türkiye,İzmir,Metal Parça
+13,Yıldız Bağlantı Elemanları,Türkiye,İstanbul,Bağlantı Elemanı
+14,Sakarya Kompozit,Türkiye,Eskişehir,Kompozit
+15,Ufuk Elektronik,Türkiye,Sakarya,Elektronik Kart
+16,Çınar Hidrolik,Türkiye,İzmir,Hidrolik
+17,Toros Kompozit,Türkiye,Bursa,Kompozit
+18,Ege Yüzey İşlemleri,Türkiye,Sakarya,Isıl İşlem/Kaplama
+19,Fırat Metal Sanayi,Türkiye,İzmir,Metal Parça
+20,Kuzey Elektronik,Türkiye,Kocaeli,Elektronik Kart
+21,Akdeniz Yüzey İşlemleri,Türkiye,İzmir,Isıl İşlem/Kaplama
+22,Pınar Metal Sanayi,Türkiye,İstanbul,Metal Parça
+23,Ova Kompozit,Türkiye,Eskişehir,Kompozit
+24,Bereket Kablaj Sistemleri,Türkiye,Kocaeli,Kablaj

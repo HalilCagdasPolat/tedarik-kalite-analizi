@@ -1,0 +1,121 @@
+part_id,part_code,part_name,category,std_cost_usd
+1,MTL-001,Braket A,Metal Parça,63.38
+2,MTL-002,Braket B,Metal Parça,16.1
+3,MTL-003,Braket C,Metal Parça,226.13
+4,MTL-004,Mil A,Metal Parça,284.44
+5,MTL-005,Mil B,Metal Parça,23.77
+6,MTL-006,Mil C,Metal Parça,92.5
+7,MTL-007,Flanş A,Metal Parça,21.42
+8,MTL-008,Flanş B,Metal Parça,136.36
+9,MTL-009,Flanş C,Metal Parça,37.77
+10,MTL-010,Gövde A,Metal Parça,130.74
+11,MTL-011,Gövde B,Metal Parça,163.22
+12,MTL-012,Gövde C,Metal Parça,187.14
+13,MTL-013,Burç A,Metal Parça,21.37
+14,MTL-014,Burç B,Metal Parça,303.6
+15,MTL-015,Burç C,Metal Parça,31.94
+16,ELK-001,Güç Kartı A,Elektronik Kart,67.68
+17,ELK-002,Güç Kartı B,Elektronik Kart,357.93
+18,ELK-003,Güç Kartı C,Elektronik Kart,198.01
+19,ELK-004,Kontrol Kartı A,Elektronik Kart,867.26
+20,ELK-005,Kontrol Kartı B,Elektronik Kart,809.17
+21,ELK-006,Kontrol Kartı C,Elektronik Kart,166.53
+22,ELK-007,Sensör Kartı A,Elektronik Kart,1288.98
+23,ELK-008,Sensör Kartı B,Elektronik Kart,153.05
+24,ELK-009,Sensör Kartı C,Elektronik Kart,314.9
+25,ELK-010,Arayüz Kartı A,Elektronik Kart,136.77
+26,ELK-011,Arayüz Kartı B,Elektronik Kart,1220.91
+27,ELK-012,Arayüz Kartı C,Elektronik Kart,101.92
+28,ELK-013,Röle Kartı A,Elektronik Kart,69.33
+29,ELK-014,Röle Kartı B,Elektronik Kart,243.44
+30,ELK-015,Röle Kartı C,Elektronik Kart,1463.63
+31,KBL-001,Ana Kablo Demeti A,Kablaj,415.09
+32,KBL-002,Ana Kablo Demeti B,Kablaj,255.16
+33,KBL-003,Ana Kablo Demeti C,Kablaj,413.85
+34,KBL-004,Sensör Kablosu A,Kablaj,417.6
+35,KBL-005,Sensör Kablosu B,Kablaj,116.8
+36,KBL-006,Sensör Kablosu C,Kablaj,58.57
+37,KBL-007,Güç Kablosu A,Kablaj,276.3
+38,KBL-008,Güç Kablosu B,Kablaj,189.84
+39,KBL-009,Güç Kablosu C,Kablaj,71.28
+40,KBL-010,Veri Kablosu A,Kablaj,27.58
+41,KBL-011,Veri Kablosu B,Kablaj,253.59
+42,KBL-012,Veri Kablosu C,Kablaj,48.83
+43,KBL-013,Topraklama Seti A,Kablaj,483.97
+44,KBL-014,Topraklama Seti B,Kablaj,45.39
+45,KBL-015,Topraklama Seti C,Kablaj,30.36
+46,HDR-001,Pompa A,Hidrolik,1397.91
+47,HDR-002,Pompa B,Hidrolik,135.59
+48,HDR-003,Pompa C,Hidrolik,148.28
+49,HDR-004,Valf A,Hidrolik,629.62
+50,HDR-005,Valf B,Hidrolik,1623.41
+51,HDR-006,Valf C,Hidrolik,157.3
+52,HDR-007,Silindir A,Hidrolik,232.8
+53,HDR-008,Silindir B,Hidrolik,1161.97
+54,HDR-009,Silindir C,Hidrolik,2268.95
+55,HDR-010,Hortum Grubu A,Hidrolik,448.36
+56,HDR-011,Hortum Grubu B,Hidrolik,131.28
+57,HDR-012,Hortum Grubu C,Hidrolik,83.93
+58,HDR-013,Akümülatör A,Hidrolik,176.36
+59,HDR-014,Akümülatör B,Hidrolik,125.93
+60,HDR-015,Akümülatör C,Hidrolik,824.31
+61,KMP-001,Panel A,Kompozit,151.34
+62,KMP-002,Panel B,Kompozit,559.64
+63,KMP-003,Panel C,Kompozit,1060.5
+64,KMP-004,Kaporta A,Kompozit,721.74
+65,KMP-005,Kaporta B,Kompozit,197.28
+66,KMP-006,Kaporta C,Kompozit,1540.95
+67,KMP-007,Takviye Plakası A,Kompozit,1139.58
+68,KMP-008,Takviye Plakası B,Kompozit,1234.72
+69,KMP-009,Takviye Plakası C,Kompozit,156.17
+70,KMP-010,Kanat Kaplaması A,Kompozit,152.33
+71,KMP-011,Kanat Kaplaması B,Kompozit,2344.89
+72,KMP-012,Kanat Kaplaması C,Kompozit,386.61
+73,KMP-013,Muhafaza A,Kompozit,278.32
+74,KMP-014,Muhafaza B,Kompozit,526.86
+75,KMP-015,Muhafaza C,Kompozit,953.08
+76,OPT-001,Lens Grubu A,Optik,4334.45
+77,OPT-002,Lens Grubu B,Optik,502.88
+78,OPT-003,Lens Grubu C,Optik,3925.15
+79,OPT-004,Prizma A,Optik,216.66
+80,OPT-005,Prizma B,Optik,1194.44
+81,OPT-006,Prizma C,Optik,1539.18
+82,OPT-007,Koruyucu Cam A,Optik,281.23
+83,OPT-008,Koruyucu Cam B,Optik,314.21
+84,OPT-009,Koruyucu Cam C,Optik,770.77
+85,OPT-010,Filtre A,Optik,4485.02
+86,OPT-011,Filtre B,Optik,1362.27
+87,OPT-012,Filtre C,Optik,4030.33
+88,OPT-013,Sensör Penceresi A,Optik,2663.66
+89,OPT-014,Sensör Penceresi B,Optik,900.33
+90,OPT-015,Sensör Penceresi C,Optik,2500.82
+91,BGL-001,Cıvata A,Bağlantı Elemanı,1.07
+92,BGL-002,Cıvata B,Bağlantı Elemanı,1.5
+93,BGL-003,Cıvata C,Bağlantı Elemanı,21.32
+94,BGL-004,Somun A,Bağlantı Elemanı,18.9
+95,BGL-005,Somun B,Bağlantı Elemanı,2.36
+96,BGL-006,Somun C,Bağlantı Elemanı,7.08
+97,BGL-007,Pul A,Bağlantı Elemanı,9.35
+98,BGL-008,Pul B,Bağlantı Elemanı,24.56
+99,BGL-009,Pul C,Bağlantı Elemanı,9.25
+100,BGL-010,Perçin A,Bağlantı Elemanı,4.58
+101,BGL-011,Perçin B,Bağlantı Elemanı,3.98
+102,BGL-012,Perçin C,Bağlantı Elemanı,4.81
+103,BGL-013,Kelepçe A,Bağlantı Elemanı,11.08
+104,BGL-014,Kelepçe B,Bağlantı Elemanı,24.53
+105,BGL-015,Kelepçe C,Bağlantı Elemanı,5.34
+106,ISL-001,Sertleştirme A,Isıl İşlem/Kaplama,10.99
+107,ISL-002,Sertleştirme B,Isıl İşlem/Kaplama,10.61
+108,ISL-003,Sertleştirme C,Isıl İşlem/Kaplama,53.53
+109,ISL-004,Anodizasyon A,Isıl İşlem/Kaplama,66.99
+110,ISL-005,Anodizasyon B,Isıl İşlem/Kaplama,6.99
+111,ISL-006,Anodizasyon C,Isıl İşlem/Kaplama,6.18
+112,ISL-007,Boya Kaplama A,Isıl İşlem/Kaplama,33.07
+113,ISL-008,Boya Kaplama B,Isıl İşlem/Kaplama,7.96
+114,ISL-009,Boya Kaplama C,Isıl İşlem/Kaplama,68.74
+115,ISL-010,Nitrürleme A,Isıl İşlem/Kaplama,13.41
+116,ISL-011,Nitrürleme B,Isıl İşlem/Kaplama,7.9
+117,ISL-012,Nitrürleme C,Isıl İşlem/Kaplama,93.35
+118,ISL-013,Kadmiyumsuz Kaplama A,Isıl İşlem/Kaplama,8.46
+119,ISL-014,Kadmiyumsuz Kaplama B,Isıl İşlem/Kaplama,12.36
+120,ISL-015,Kadmiyumsuz Kaplama C,Isıl İşlem/Kaplama,8.15
